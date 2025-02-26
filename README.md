@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayhonasattarhonova
 - 👀 I’m interested in Mathematics
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and javascript
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me rayhonasattarhonova@gmail.com
 - 😄 Pronouns: She/her
